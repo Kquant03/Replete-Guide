@@ -1,7 +1,8 @@
 {
   "index": "Introduction",
   "RVC": "Voice Cloning",
-  "advanced": "Advanced (A Folder)",
+  "Text-Generation": "Text Generation",
+  "Image-Generation": "Image Generation",
   "about": {
     "title": "About",
     "type": "page"
